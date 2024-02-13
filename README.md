@@ -19,10 +19,7 @@ Regression-Store-Sales
 │   ├── oil.csv
 │   └── holidays_events.csv
 ├── notebooks
-│   ├── exploratory_data_analysis.ipynb
-│   ├── trends_sales_over_time.ipynb
-│   ├── hyperparameter_tuning.ipynb
-│   └── model_evaluation.ipynb
+│   ├── main.ipynb
 ├── src
 │   ├── data_preprocessing.py
 │   ├── feature_engineering.py
@@ -42,16 +39,16 @@ Regression-Store-Sales
 ## Technical Content
 
 ### 1. Exploratory Data Analysis (EDA)
-Explore the dataset using `exploratory_data_analysis.ipynb`. Uncover patterns, distributions, and relationships within the data.
+Explore the dataset using `main-1.ipynb`. Uncover patterns, distributions, and relationships within the data.
 
 ### 2. Trends of Sales Over Time
-Analyze trends and seasonality of sales over time with `trends_sales_over_time.ipynb`. Identify patterns crucial for decision-making.
+Analyze trends and seasonality of sales over time with `main-1.ipynb`. Identify patterns crucial for decision-making.
 
 ### 3. Hyperparameter Tuning
-Implement hyperparameter tuning for models using `hyperparameter_tuning.ipynb`. Optimize model performance for accurate predictions.
+Implement hyperparameter tuning for models using `main-1.ipynb`. Optimize model performance for accurate predictions.
 
 ### 4. Model Evaluation
-Evaluate the forecasting models in `model_evaluation.ipynb`. Assess the accuracy and reliability of predictions.
+Evaluate the forecasting models in `main-1.ipynb`. Assess the accuracy and reliability of predictions.
 
 ## Conclusion/Recommendations
 
